@@ -14,3 +14,31 @@
   background-color:blue;
   color:white; 
 }
+#app {
+  height: 90vh;
+}
+
+.day {
+  background-color: #f0f0f0;
+  color: black;
+}
+
+.night {
+  background-color: black;
+  color: white;
+}
+
+#swap {
+  outline: 0;
+}
+
+.button_day {
+  background-color: blue;
+  color: white;
+}
+
+.button_night {
+  background-color: darkblue;
+  color: white;
+}
+

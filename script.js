@@ -1,4 +1,3 @@
-//your code here
 document.addEventListener("DOMContentLoaded", function () {
   const appElement = document.getElementById("app");
   const swapButton = document.getElementById("swap");
@@ -13,4 +12,3 @@ document.addEventListener("DOMContentLoaded", function () {
     swapButton.classList.toggle("button_night");
   }
 });
-
